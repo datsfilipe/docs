@@ -45,7 +45,9 @@
     },
     {
       "group": "Blocks",
-      "pages": []
+      "pages": [
+        "blocks/test"
+      ]
     }
   ],
   "footerSocials": {
